@@ -1,4 +1,5 @@
 🎬 IMDb Movie Review Sentiment Analysis using RNN
+<img width="1503" height="747" alt="imdb ss" src="https://github.com/user-attachments/assets/56616cba-86fa-4878-85b9-600cf40d0527" />
 
 Welcome to the IMDb Sentiment Analysis project by Arya Baisakhiya.This project demonstrates how a Simple Recurrent Neural Network (RNN) can be used for text classification, specifically for sentiment analysis of movie reviews. The application has been built with PyTorch for model development and Streamlit for a user-friendly web interface.
 
