@@ -11,7 +11,7 @@ This project demonstrates how a Simple Recurrent Neural Network (RNN) can be use
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
+- [Overview]
 - [Project Pipeline]
 - [Model Architecture]
 - [Technologies Used]
