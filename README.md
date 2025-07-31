@@ -12,12 +12,12 @@ This project demonstrates how a Simple Recurrent Neural Network (RNN) can be use
 ## 📌 Table of Contents
 
 - [Overview](#overview)
-- [Project Pipeline](#project-pipeline)
-- [Model Architecture](#model-architecture)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [How to Use the App](#how-to-use-the-app)
-- [Credits](#credits)
+- [Project Pipeline]
+- [Model Architecture]
+- [Technologies Used]
+- [Setup Instructions]
+- [How to Use the App]
+- [Credits]
 
 ---
 
