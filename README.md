@@ -97,4 +97,8 @@ Clone or Download the Project:
 
 git clone https://github.com/aryabaisakhiya/Movie-Review-Analyser.git
 cd rnn_sentiment_app
+
+Deployment:
+
+You can access the project at https://hgi977jm6abmzakpvvngr3.streamlit.app/
    
